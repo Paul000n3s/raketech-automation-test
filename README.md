@@ -35,5 +35,5 @@ This repository contains the solution for the UI automation part of the Raketech
    npx cypress run
   
 2. Execute the following command to run the UI tests using Cypress:
-  ```bash
-  npx cypress open
+   ```bash
+    npx cypress open
