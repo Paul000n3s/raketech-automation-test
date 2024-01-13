@@ -22,19 +22,17 @@ This repository contains the solution for the UI automation part of the Raketech
    git clone https://github.com/Paul000n3s/raketech-automation-test.git
 
 2. Navigate to the project directory:
+   ```bash
    cd raketech-automation-test
 
-3. Install the dependencies:
+4. Install the dependencies:
+   ```bash
    npm install
 
 ## Running Tests
 1. Execute the following command to run the Cypress tests:
-  npm test
-2. To run tests in headless mode (for CI/CD), use:
-  npm run test:headless
+   ```bash
+  npx cypress run
 3. Execute the following command to run the UI tests using Cypress:
-  npx cypres open
-
-
-
-
+  ```bash
+  npx cypress open
