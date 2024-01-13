@@ -1,7 +1,7 @@
 # Raketech Technical Testing Kata - UI Automation
 
 ## Overview
-This repository contains the solution for the UI automation part of the Raketech Technical Testing Kata. The challenge is to automate specific tasks on the Raketech website using Cypress.
+This repository contains the solution for the UI automation and API Test, part of the Raketech Technical Testing Kata. The challenge is to automate specific tasks on the Raketech website using Cypress.
 
 ## Table of Contents
 
